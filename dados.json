@@ -138,15 +138,5 @@
     "vencimento": "07/06/2027",
     "status": "GERADO",
     "data_geracao": "29/04/2026 11:32:47"
-  },
-  {
-    "id_boleto": 1,
-    "numero_documento": "1001",
-    "pagador_nome": "Test 2",
-    "pagador_doc": "179.084.137-10",
-    "valor_documento": "150,00",
-    "vencimento": "29/04/2026",
-    "status": "GERADO",
-    "data_geracao": "29/04/2026 11:47:42"
   }
 ]
