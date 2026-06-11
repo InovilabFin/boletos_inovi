@@ -1176,10 +1176,13 @@
     "pagador_doc": "179.084.137-10",
     "valor_documento": "150,00",
     "vencimento": "11/06/2026",
-    "status": "GERADO",
+    "status": "EXCLUIDO",
     "data_geracao": "11/06/2026 15:25:08",
     "lote_id": "LOTE-20260611-152507",
-    "arquivo_pdf": "Arquivos_Gerados\\2026\\06 - Junho\\Credi_Teste_1106_4_157.pdf"
+    "arquivo_pdf": "Arquivos_Gerados\\2026\\06 - Junho\\Credi_Teste_1106_4_157.pdf",
+    "data_hora_exclusao": "11/06/2026 15:39:47",
+    "usuario_exclusao": "INOVI LAB",
+    "motivo_exclusao": ""
   },
   {
     "id_boleto": 158,
@@ -1188,9 +1191,12 @@
     "pagador_doc": "179.084.137-10",
     "valor_documento": "150,00",
     "vencimento": "11/07/2026",
-    "status": "GERADO",
+    "status": "EXCLUIDO",
     "data_geracao": "11/06/2026 15:25:08",
     "lote_id": "LOTE-20260611-152507",
-    "arquivo_pdf": "Arquivos_Gerados\\2026\\06 - Junho\\Credi_Teste_1106_4_157.pdf"
+    "arquivo_pdf": "Arquivos_Gerados\\2026\\06 - Junho\\Credi_Teste_1106_4_157.pdf",
+    "data_hora_exclusao": "11/06/2026 15:39:47",
+    "usuario_exclusao": "INOVI LAB",
+    "motivo_exclusao": ""
   }
 ]
